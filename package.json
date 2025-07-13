@@ -1,0 +1,16 @@
+{
+  "name": "complete-backend-project",
+  "version": "1.0.0",
+  "description": "complete backend course learned from youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "node.js"
+  ],
+  "author": "Pramod Kumar",
+  "license": "ISC"
+}
